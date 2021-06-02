@@ -1,0 +1,16 @@
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\Common.dll
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\Common.pdb
+D:\PortableTest\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+D:\PortableTest\RepositoryLayer\bin\Debug\netcoreapp3.1\appsettings.json

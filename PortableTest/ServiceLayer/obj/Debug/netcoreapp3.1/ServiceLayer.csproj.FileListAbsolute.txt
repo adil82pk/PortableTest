@@ -1,0 +1,15 @@
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\PortableTest\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\Common.dll
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\Common.pdb
+D:\PortableTest\ServiceLayer\bin\Debug\netcoreapp3.1\appsettings.json
